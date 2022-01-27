@@ -351,7 +351,7 @@
         if (score <= 49) return '喵喵露P用没有';
         if (score <= 99) return '大傻喵';
         if (score <= 149) return '厉害的大傻喵';
-        if (score <= 199) return '您';
+        if (score <= 199) return '佬佬佬';
         return '人？';
     }
 
